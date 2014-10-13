@@ -13,6 +13,7 @@ XBMCee is a full featured XBMC - KODI remote. You can browse, sort, search, shar
 
 
 ![XBMCee](http://a3.mzstatic.com/us/r30/Purple1/v4/07/13/e5/0713e513-b35a-b781-f578-219c169cd3c1/screen568x568.jpeg)
+![](http://a2.mzstatic.com/us/r30/Purple4/v4/88/b6/73/88b67301-5868-f720-16fc-df4385abe938/screen568x568.jpeg)
 
 Upcoming Release: v1.5<br/>
 <b>Release notes:</b>
