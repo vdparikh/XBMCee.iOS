@@ -32,6 +32,6 @@ If you interested in beta testing please email freshlimesoda.us@gmail.com or hit
 
 <b>FAQs</b>
 <ul>
-<li><b>What versions does XBMCee Support?<br/>Please note: XBMCee ONLY support XBMC v12.0 "Frodo" and v13.0 "Gotham". Release v1.2 has also been briefly tested on KODI/XBMC v14.0 "Helix"</li>
+<li><b>What versions does XBMCee Support?</b><br/>Please note: XBMCee ONLY support XBMC v12.0 "Frodo" and v13.0 "Gotham". Release v1.2 has also been briefly tested on KODI/XBMC v14.0 "Helix"</li>
 </ul>
 
