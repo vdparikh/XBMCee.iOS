@@ -18,6 +18,7 @@ XBMCee is a full featured XBMC - KODI remote. You can browse, sort, search, shar
 Upcoming Release: v1.5<br/>
 <b>Release notes:</b>
 <ul>
+<li>Optimized for iPhone 6 and 6 Plus - Enjoy XBMCee without any scaling</li>
 <li>Option to disable notification on KODI when CONNECTED</li>
 <li>Option to view Movie Library as Fanart or Posters</li>
 <li>More refined interface for Cast/Crew on Movies</li>
