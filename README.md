@@ -14,6 +14,18 @@ XBMCee is a full featured XBMC - KODI remote. You can browse, sort, search, shar
 
 ![XBMCee](http://a3.mzstatic.com/us/r30/Purple1/v4/07/13/e5/0713e513-b35a-b781-f578-219c169cd3c1/screen568x568.jpeg)
 
+Upcoming Release: v1.5<br/>
+<b>Release notes:</b>
+<ul>
+<li>Option to disable notification on KODI when CONNECTED</li>
+<li>Option to view Movie Library as Fanart or Posters</li>
+<li>More refined interface for Cast/Crew on Movies</li>
+<li>Remote now support going Page Up / Page Down for faster browsing</li>
+</ul>
+
+
+
+
 
 <b>Beta Testers:</b>
 If you interested in beta testing please email freshlimesoda.us@gmail.com or hit me up on twitter @vdparikh or @xbmcee
